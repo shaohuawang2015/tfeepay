@@ -1,0 +1,9 @@
+#server:
+ # port: 80
+
+#https:
+#  port: 443
+#  ssl:
+#    key-store: tomcat.pfx
+#    key-store-password: Iqn7Ob0e
+#    key-store-type: PKCS12
